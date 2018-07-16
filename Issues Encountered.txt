@@ -1,0 +1,5 @@
+- Nexus Issues
+	- Server IP reset [10.x.x.x > 13.56.9.5]
+	- Snapshot policy reset [snapshot > release]*
+- Tomcat Server
+	- EC2 instance port (9999) reset [custom > my ip]
